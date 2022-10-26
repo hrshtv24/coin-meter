@@ -34,15 +34,19 @@ A Website to get real-time data of cryptocurrencies with a nice user interface, 
 + [jQuery](https://jquery.com/)
 
 # SCREENSHOTS
-+ Home Page
+
++ **Home Page**
   ![Home Page](https://raw.githubusercontent.com/kaustubh-vats/coin-meter/main/screenshots/1.jpeg)
   ![Home Page Dark](https://raw.githubusercontent.com/kaustubh-vats/coin-meter/main/screenshots/1_dark.jpeg)
-+ All Coins Page
+
++ **All Coins Page**
   ![All Coins Page](https://raw.githubusercontent.com/kaustubh-vats/coin-meter/main/screenshots/2.jpeg)
   ![All Coins Page Dark](https://raw.githubusercontent.com/kaustubh-vats/coin-meter/main/screenshots/2_dark.jpeg)
-+ All Coins Page After Searching a Coin
+ 
++ **All Coins Page After Searching a Coin**
   ![All Coins Page After Searching a Coin](https://raw.githubusercontent.com/kaustubh-vats/coin-meter/main/screenshots/3.jpeg)
   ![All Coins Page After Searching a Coin Dark](https://raw.githubusercontent.com/kaustubh-vats/coin-meter/main/screenshots/3_dark.jpeg)
-+ Coin Information Page
+
++ **Coin Information Page**
   ![Coin Information Page](https://raw.githubusercontent.com/kaustubh-vats/coin-meter/main/screenshots/4.jpeg)
   ![Coin Information Page Dark](https://raw.githubusercontent.com/kaustubh-vats/coin-meter/main/screenshots/4_dark.jpeg)
