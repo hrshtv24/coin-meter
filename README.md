@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/kaustubh-vats/coin-meter/main/screenshots/ui.png" width="100%" alt="UI Image">
 
 # Coin Meter
-A Website to get real-time data of cryptocurrencies with a nice user interface, animation and charts.
+A Website to get real-time data of cryptocurrencies with a nice user interface, animation and charts. Serves the price in INR.
 [Live Link](https://coin-meter.netlify.app/)
 
 ## NOTE: I have used flask for creating REST API for calling my API as My API provider is not following the CORS policy, as flask is not in our syllabus I am not using it as a backend (calling flask by javascript fetch).
